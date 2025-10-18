@@ -1,0 +1,9 @@
+# ==========================================
+# Node.js / Express backend
+# ==========================================
+
+# Dependencias instaladas (muy pesadas)
+node_modules/
+
+# Variables de entorno (credenciales)
+.env
